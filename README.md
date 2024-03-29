@@ -45,4 +45,4 @@ Recipe Finder is a web application that allows users to explore recipes based on
 This project is a practice project, and contributions are not expected. However, feel free to use the code as a template for your own portfolio or suggest improvements.
 
 ## URL
-This is the url [https://mahamtaj29.github.io/capstone_project_portfolio.github.io/](https://culinary-voyage-react-no96bbojm-maham-tajs-projects.vercel.app/)
+This is the url [https://mahamtaj29.github.io/culinary-voyage-react/](https://culinary-voyage-react-no96bbojm-maham-tajs-projects.vercel.app/)
